@@ -4,7 +4,7 @@
 
 ## 当前版本
 
-- 版本：**0.1.18**（versionCode 19）
+- 版本：**0.1.19**（versionCode 20）
 - 包名：`io.github.yichuanyc.yichuan`
 - 支持：Android 8.0（API 26）及以上
 
@@ -39,6 +39,7 @@
 | tag | versionName | versionCode | 说明 |
 |---|---|---|---|
 | `v0.1.18` | 0.1.18 | 19 | 新包名的第一个对外版本 |
+| `v0.1.19` | 0.1.19 | 20 | 修复批次（体检 20 处）；最低系统改为 Android 10 |
 
 旧的 `v0.1.1` – `v0.1.17`（versionCode 2–18）使用旧包名，已下线。
 
