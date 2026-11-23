@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/v/release/yichuanYC/yichuan?style=flat-square&label=version&color=3B82F6" alt="version">
   <img src="https://img.shields.io/badge/Android-10%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 10+">
-  <img src="https://img.shields.io/badge/size-17.6%20MB-6B7280?style=flat-square" alt="size">
+  <img src="https://img.shields.io/badge/size-17.7%20MB-6B7280?style=flat-square" alt="size">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-Compose-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin + Compose">
@@ -31,7 +31,7 @@
 
 ## 简介
 
-易川在手机本地完成音频文件的解密与容器转换：读取主流音乐客户端下载到本机的加密文件，还原为标准音频文件，全程不联网、不上传、不做二次压缩。除转换外，应用同时提供本地播放器、28 件常用小工具与一套主题系统。
+易川在手机本地完成音频文件的解密与容器转换：读取主流音乐客户端下载到本机的加密文件，还原为标准音频文件，转换全程在本机完成，不上传、不联网、不做二次压缩。除转换外，应用同时提供本地播放器、28 件常用小工具与一套主题系统。
 
 - 识别 KGM / KGMA、NCM、QMC v1、KWM 四类加密格式，覆盖酷狗、网易云、QQ 音乐、酷我
 - 按文件实际内容判定容器，输出 FLAC、MP3、WAV、OGG、M4A、AAC、APE、WMA 共 8 种，不按文件名推测
